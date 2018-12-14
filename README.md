@@ -1,0 +1,2 @@
+# recipes
+Second LC repository
